@@ -1,1 +1,1 @@
-This is ChrisMM's first git project!
+This is ChrisMM's first git project! Trying to check descriptive message
